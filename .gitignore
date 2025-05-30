@@ -46,7 +46,6 @@ env/
 
 # Generated files
 *.png
-*.txt
 *.log
 
 # Personal scripts (you may want to keep these, comment out if needed)
